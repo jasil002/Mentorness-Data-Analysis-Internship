@@ -1,7 +1,11 @@
 Data Analysis Internship with Mentorness
+
 Overview
+
 This repository contains the projects and tasks completed during my Data Analysis internship with Mentorness (Batch MIP-DA-14). The internship focused on developing skills in SQL, Power BI, and data analysis through practical projects and assessments.
+
 Projects
+
 1. Reels Task on SQL or Power BI
 
 Created a 30-second to 1-minute video on SQL/Power BI/Tableau/Data Analysis
